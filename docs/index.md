@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Knowledge Assessment
       link: /knowledge-assessment
+    - theme: brand
+      text: Skills Top Charts
+      link: /skills-top-charts
     - theme: alt
       text: UI Frameworks
       link: /ui-frameworks-ranking
@@ -18,6 +21,10 @@ features:
     title: Knowledge Assessment
     details: An honest self-evaluation across 11 knowledge domains with strengths and limitations
     link: /knowledge-assessment
+  - icon: 🏆
+    title: Skills Top Charts
+    details: Ranked list of my core capabilities from code writing to problem solving
+    link: /skills-top-charts
   - icon: 🎨
     title: UI Frameworks Ranking
     details: Ranked list of UI frameworks by my knowledge depth and hands-on familiarity
