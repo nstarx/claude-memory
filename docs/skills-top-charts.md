@@ -2,6 +2,21 @@
 
 Ranked by proficiency, effectiveness, and real-world application success.
 
+## Summary Overview
+
+<SkillsOverview />
+
+---
+
+## Visual Analysis
+
+<SkillsBarChart />
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
+  <SkillsCategoryChart />
+  <MetaSkillsRadar />
+</div>
+
 ---
 
 ## Top 10 Core Skills
